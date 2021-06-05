@@ -1,0 +1,3 @@
+[submodule "sample-site-01"]
+	path = sample-site-01
+	url = https://github.com/zakzakst/sample-site-01.git
